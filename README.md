@@ -1,3 +1,5 @@
 # ai-case-study
 
-## this is a sub heading
+## This is a sub heading
+
+##  This is another sub heading
